@@ -1,0 +1,20 @@
+# 🚀 Proyecto ETL con Apache Airflow – Evaluación Data Engineer 2025
+
+## 📌 Objetivo
+
+Diseñar e implementar un pipeline de procesamiento de datos desde un archivo CSV utilizando Apache Airflow, que automatice las tareas de ingesta, limpieza, transformación y carga en una base de datos PostgreSQL.
+
+---
+
+## ⚙️ Tecnologías Usadas
+
+- **Docker & Docker Compose**  
+- **Apache Airflow 2.8.1**  
+- **Python 3.9**  
+- **PostgreSQL 13**  
+- **Pandas**
+
+---
+
+## 🗂️ Estructura del Proyecto
+
